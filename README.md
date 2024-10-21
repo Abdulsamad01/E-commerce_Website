@@ -1,3 +1,7 @@
+# fsd_project
+
+This project is done by Abdul Samad and Sushma R as there full stack development end semester project for the 7th sem 
+
 # Amrita Store Online Clothing Store
 
 An Ecommerce Clothing Store Website
@@ -44,4 +48,4 @@ owl.carousel.js used for creating products sliders
 ### Icons
 
 Font Awesome and Elegent Icons
-# fsd_project
+
