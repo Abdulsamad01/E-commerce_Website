@@ -1,4 +1,4 @@
-# fsd_project
+# E-commerce Website
 
 This project is done by Abdul Samad and Sushma R as there full stack development end semester project for the 7th sem 
 
